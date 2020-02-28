@@ -1,0 +1,41 @@
+Файлы readme отличаются, так в этой ветке в первой строке присутствует еще и эта фраза:
+ " with nice buttons on his jacket (buttons branch)"
+ 10
+Merge branch 'boots_buttons'
+@PetyaVasya
+PetyaVasya committed 6 minutes ago
+6bd2a02
+Merge remote-tracking branch 'origin/hat'
+@PetyaVasya
+PetyaVasya committed 6 minutes ago
+884adab
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+@PetyaVasya
+PetyaVasya committed 23 minutes ago
+222dff5
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+@PetyaVasya
+PetyaVasya committed 23 minutes ago
+f2628e1
+Commits on Jun 29, 2016
+fix readme
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+df455a7
+dots
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+1db7b7a
+README added
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+079fa1b
+boots
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+152f859
+heat added
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+949c4a1
+init
